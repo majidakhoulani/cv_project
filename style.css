@@ -1,0 +1,49 @@
+.button1{
+    color:#fff;
+    background-color: #f39208;
+}
+.button1:hover{
+    opacity: 0.8;
+    color:#fff;
+    /* box-shadow: 0 0 5px 0; */
+}
+.row{
+    width: 8%;
+    height: 2px;
+    background-color: #f39208;
+    margin:0 auto;
+}
+.clients{
+    background-image: url("https://source.unsplash.com/g30P1zcOzXo/1600x900");
+    background-size: cover;
+}
+.footer-section{
+background: #444f60;
+color: #fff;
+}
+.footer-section a{
+    color: #98a9c3;
+}
+.sponer-images{
+    margin:0 auto;
+}
+.sponer-images img{
+    margin: 20px;
+}
+.power,.intuitive,.Started{
+    background-color: #fbfbfb;
+}
+.icon1{
+    margin-right: 300px;
+}
+/* .part1{
+    margin-left: 41px;
+}
+.part1 img{
+margin-top: 40px;
+position: absolute;
+}
+  */
+.part{
+    margin-left: 41px;
+}
